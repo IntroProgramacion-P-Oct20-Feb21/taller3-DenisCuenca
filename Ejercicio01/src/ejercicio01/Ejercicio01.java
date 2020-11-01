@@ -19,15 +19,15 @@ public class Ejercicio01 {
         
         // Crear una variable entera llamada edad
         // Asignar a la variable edad el valor de 20
-        
+        int edad = 17; 
         
         // Crear una variable double llamada promedio
         // Asignar a la variable promedio el valor de 10.2
         
-        
+        double promedio = 9.9; 
         // Crear una variable String llamada pais
         // Asignar a la variable pais el valor de Ecuador
-        
+        String pais = "Ecuador";
         
         
         System.out.println(edad);
@@ -39,6 +39,8 @@ public class Ejercicio01 {
         
         double resultado = (1+2+4+3)/5+Math.sqrt(81);
         System.out.println(resultado);
+        
+         
         
         
     }

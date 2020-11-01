@@ -3,21 +3,21 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicio02;
+package ejercicio03;
 
 /**
  *
  * @author Sammy Guergachi <sguergachi at gmail.com>
  */
-public class Ejercicio02 {
+public class Ejercicio03 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-          double resultado = Math.pow (10, 2)+10;
-        System.out.println(resultado);
+        System.out.println(Math.pow(10,2) + Math.sqrt(16) + 20/(1+11));
+        
     }
     
 }
